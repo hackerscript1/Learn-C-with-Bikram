@@ -1,0 +1,37 @@
+# This is my 1st Chapter : Variables & Data Types ✅ 
+
+1. Variables
+What are variables?
+  How to declare and initialize variables.
+  Naming conventions and rules.
+  Example code for variable usage.
+
+2. Data Types
+  Basic data types: int, float, double, char.
+  Size of data types using sizeof operator.
+  Example code showing usage of each type.
+
+3. Constants
+  Defining constants using #define and const.
+  Example code for immutable values.
+
+Sample File: variables.c
+
+#include <stdio.h>
+
+int main() {
+    int age = 20;            // Integer variable
+    float height = 5.9;      // Float variable
+    char initial = 'B';      // Character variable
+
+    printf("Age: %d\n", age);
+    printf("Height: %.2f\n", height);
+    printf("Initial: %c\n", initial);
+
+    return 0;
+}
+
+Tips :
+  Add comments to explain each part of your code.
+  Keep examples simple and beginner-friendly.
+  Use meaningful names for files and variables.
