@@ -1,0 +1,43 @@
+Chapter 2: Operators and Control Instructions ✅ 
+  In this chapter, we will explore the fundamental building blocks of C programming—operators and control instructions. These concepts are essential for performing operations on data and controlling the flow of the program.
+
+Operators in C
+  Operators are symbols that perform operations on variables or values. In C, there are several types of operators, each serving a different purpose:
+
+Arithmetic Operators: These are used to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
+Example: +, -, *, /, %
+
+Relational Operators: These operators help in comparing two values. They return a boolean value (true or false).
+Example: ==, !=, >, <, >=, <=
+
+Logical Operators: These are used to combine multiple conditions or expressions.
+Example: && (AND), || (OR), ! (NOT)
+
+Assignment Operators: These are used to assign values to variables.
+Example: =, +=, -=, *=, /=
+
+Bitwise Operators: These operators are used to perform bit-level operations on variables.
+Example: &, |, ^, ~, <<, >>
+
+Ternary Operator: A shorthand for the if-else statement, used for conditional expressions.
+Example: condition ? expr1 : expr2
+
+Control Instructions in C
+  Control instructions are used to dictate the flow of execution of a program based on certain conditions or loops. These include:
+
+Sequence Control: Refers to the sequential execution of statements, where each statement is executed one after the other.
+
+Decision Control: These instructions allow the program to choose between two or more paths based on a condition.
+Example: if, else, switch-case
+
+Loop Control: Used to repeat a set of instructions until a specific condition is met.
+Example: for, while, do-while
+
+Case Control: These instructions provide multiple choices to execute different parts of the program.
+Example: switch-case
+
+Operator Precedence and Associativity
+  In C, operators have a specific order of precedence, which determines the order in which operations are performed.
+For example, multiplication and division have higher precedence than addition and subtraction.
+
+Operator associativity defines the direction in which operators of the same precedence are evaluated. Most operators in C have left-to-right associativity, but some operators like assignment (=) have right-to-left associativity.
