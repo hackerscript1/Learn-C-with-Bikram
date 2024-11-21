@@ -1,0 +1,59 @@
+Chapter 5: Functions in C ✅ 
+
+1. Introduction to Functions
+  Function Declaration
+  Function Definition
+  Function Call
+
+2. Why Use Functions?
+  Code Reusability
+  Modular Approach
+
+3. Types of Functions
+  Built-in Functions (Library Functions)
+  User-defined Functions
+
+4. Examples
+  Example 1: Simple Function to Print Messages
+  Example 2: Function to Greet Users Based on Input
+  Example 3: Sum of Two Numbers
+
+5. Recursion in Functions
+  Explanation
+  Examples:
+    Printing Messages
+    Sum of First N Natural Numbers
+    Factorial of a Number
+    Fibonacci Series
+
+6. Practice Questions
+  Celsius to Fahrenheit Conversion
+  Percentage Calculation of a Student
+  Fibonacci Series for N Terms
+
+
+Introduction to Functions in C ✅ 
+  In C programming, functions are building blocks that allow us to divide a program into smaller, manageable parts. A function is a group of statements that perform a specific task and can be reused multiple times in a program. This helps in making code more organized, readable, and modular.
+
+  Instead of writing the same code repeatedly, we can write it once in a function and call it whenever required. Functions improve the reusability, maintainability, and efficiency of a program.
+
+Key Components of a Function
+  1. Function Declaration
+    This tells the compiler about the function's name, return type, and parameters.
+
+  2. Function Definition
+    This includes the actual code or logic of the function.
+
+  3. Function Call
+    This is where the function is invoked or executed in the program.
+
+Types of Functions in C
+  1. Built-in Functions
+    These are predefined functions provided by C libraries (e.g., printf(), scanf(), sqrt(), etc.).
+
+  2. User-defined Functions
+    These are functions created by the programmer to perform specific tasks.
+
+Functions not only make the program efficient but also enable recursion, which allows a function to call itself to solve complex problems like factorial computation, Fibonacci series, etc.
+
+In this chapter, we will explore how to write, use, and understand functions in detail with practical examples and exercises. 💡
