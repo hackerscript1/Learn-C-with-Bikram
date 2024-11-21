@@ -1,0 +1,8 @@
+Introduction to Arrays in C ✅ 
+
+Arrays are one of the fundamental data structures in C programming, allowing you to store a collection of elements of the same type in a single variable. Instead of defining individual variables for each element, arrays provide a more efficient way to handle large amounts of data.
+
+In this chapter, we will explore the concept of arrays, their syntax, and various ways to use them in C. Arrays can be one-dimensional (linear) or multi-dimensional (like matrices), and we will cover both. You'll learn how to declare, initialize, and access array elements, along with performing basic operations such as finding the sum, average, and reversing arrays.
+
+Understanding arrays is essential for writing efficient programs and handling large datasets. By the end of this chapter, you'll be comfortable using arrays in your own C programs.
+
