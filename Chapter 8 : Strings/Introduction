@@ -1,0 +1,29 @@
+Introduction to Strings ✅ 
+  How to declare and print strings using different methods.
+
+Questions
+  Q1: Print the characters of a string using a loop.
+  Q2: Prompt the user for their first name and print it.
+  Q3: Input a name and display its length.
+  Q4: Input a string using the %c specifier and print it.
+  Q5: Concatenate a password with a salt value.
+  Q6: Implement a function to slice a string between indices.
+  Q7: Count the number of vowels in a string.
+  Q8: Check if a character exists in a string.
+
+Functions Demonstrated
+  String manipulation functions such as strlen(), strcpy(), strcat(), strcmp(), fgets(), and pointer usage in strings.
+
+
+Chapter 8: Strings in C ✅ 
+  In C programming, strings are an essential type of data used to represent sequences of characters. Unlike other data types such as integers or floats, strings in C are arrays of characters terminated by a special character \0 (null character) to mark the end of the string. In this chapter, we will explore various ways to work with strings, including how to define, manipulate, and perform operations on strings in C.
+
+You will learn:
+  How to declare and initialize strings using both character arrays and pointers.
+  The use of string manipulation functions from the standard C library such as strlen(), strcpy(), strcat(), and strcmp().
+  How to input and output strings using different methods like scanf(), gets(), puts(), and fgets().
+  Basic string operations such as slicing, concatenation, and finding the length of a string.
+  The application of loops and conditionals to traverse and manipulate strings.
+  Practical examples to help you understand how strings are handled in real-world programs.
+
+By the end of this chapter, you should be comfortable with using strings in C for a variety of applications.
