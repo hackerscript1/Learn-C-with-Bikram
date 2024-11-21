@@ -1,0 +1,13 @@
+Introduction to File I/O in C ✅ 
+  In C programming, working with files is an essential skill. File Input/Output (I/O) allows a program to read data from or write data to files, making programs more versatile by enabling data storage and retrieval. C provides a set of standard library functions to manage files, making it possible to perform various operations like reading, writing, and modifying file contents.
+
+In this chapter, we will explore:
+  File Handling Basics: Understanding how to open and close files using fopen() and fclose(), and the various modes (read, write, append) to handle files effectively.
+  Reading and Writing Data: Using functions like fscanf(), fprintf(), fgetc(), and fputc() to read and write data in different formats.
+  Error Handling: Checking if a file exists or if an error occurs during file operations. This is crucial for avoiding crashes and ensuring that data operations are successful.
+  End of File (EOF): Understanding how to handle the end of a file when reading data, ensuring that you don't try to read beyond the available content.
+  Practical Applications: Programs that demonstrate file handling, including reading integers, writing strings, handling student records, and more.
+
+This chapter will not only help you get familiar with file handling techniques but also enable you to develop robust programs capable of processing and storing data efficiently.
+
+By the end of this chapter, you will have a solid understanding of how to use file I/O in C for a variety of real-world applications.
