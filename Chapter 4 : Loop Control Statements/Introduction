@@ -1,0 +1,15 @@
+Chapter 4: Loop Control Statements
+  In programming, loops are a fundamental concept that allow us to repeat a block of code multiple times, making our programs more efficient and reducing the need for repetitive code. However, there are situations where we may need to control the flow of these loops. This is where loop control statements come into play.
+
+Loop control statements enable us to alter the normal flow of execution in a loop based on certain conditions. In this chapter, we will explore three main types of loop control statements:
+1. For Loop: Used when the number of iterations is known beforehand. It allows us to execute a block of code a specific number of times.
+
+2. While Loop: Executes a block of code as long as the given condition remains true. It is useful when the number of iterations is not known and depends on dynamic conditions.
+
+3. Do-While Loop: Similar to the while loop but guarantees that the block of code will be executed at least once, regardless of the condition.
+
+In addition to these loops, we will also cover:
+  Break Statement: Used to exit the loop prematurely when a certain condition is met.
+  Continue Statement: Skips the current iteration and moves to the next one, when a specified condition is satisfied.
+
+By the end of this chapter, you'll understand how to use loops and control statements to manage flow in your programs, giving you the flexibility to create more dynamic and efficient code.
