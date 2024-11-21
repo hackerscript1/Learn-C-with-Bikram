@@ -1,0 +1,17 @@
+Chapter 3: Conditional Statements in C ✅ 
+  In programming, it’s often necessary to make decisions based on certain conditions. Conditional statements allow the program to execute different actions based on whether a specific condition is true or false. These statements form the foundation of decision-making in C programming, enabling the creation of dynamic and interactive programs.
+
+This chapter will explore the following types of conditional statements:
+1. if-else Statement:
+  This is the most basic form of decision-making in C. It evaluates a condition and executes a block of code if the condition is true; otherwise, it executes a different block of code.
+
+2. if-else-if Statement:
+  A more advanced form of the if-else statement that allows multiple conditions to be tested sequentially. This helps when there are multiple potential conditions that need to be checked.
+
+3. Ternary Operator:
+  This is a shorthand for the if-else statement, allowing you to write simple conditional expressions in a more compact form.
+
+4. switch Statement:
+  This is used when there are multiple possible values for a single variable. It's an efficient way to handle multiple conditions by associating each condition with a unique case.
+
+By the end of this chapter, you will have a clear understanding of how to use these conditional statements to write more powerful and flexible programs in C. These fundamental constructs will help you handle various programming challenges by making your code respond dynamically to different inputs and conditions.
